@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "fullName": "fezibongo",
+      "address": "21 frere place",
+      "phoneNumber": "0788881367",
+      "email": "rubushefezibongo@gmail.com",
+      "idnumber":"9302145016086",
+      "posistion":"ceo"
+      
+    },
+    {
+      "id": 2,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "email": "",
+      "idnumber":"",
+      "posistion":""
+    },
+    {
+      "id": 3,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "email": "",
+      "idnumber":"",
+      "posistion":""
+    },
+    {
+      "id": 4,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "email": "",
+      "idnumber":"",
+      "posistion":""
+    },
+    {
+      "id": 5,
+      "fullName": "",
+      "address": "",
+      "phoneNumber": "",
+      "email": "",
+      "idnumber":"",
+      "posistion":""
+  
+    }
+  ]
